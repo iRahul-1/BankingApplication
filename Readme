@@ -1,0 +1,25 @@
+Project Description:
+This Java project is a simple banking system that allows users to access services provided by SBI Bank or HDFC Bank based on their choice.
+
+Package Structure:
+com.nit.exception: Contains classes related to exceptions handling.
+com.nit.implementation: Contains implementation classes for banking services.
+com.nit.requirement: Contains classes defining project requirements.
+com.nit.user: Contains the main class BankUser responsible for user interaction.
+
+How to Run:
+Clone the repository to your local machine.
+Open the project in your preferred Java IDE.
+Compile and run the BankUser class.
+
+Usage:
+When prompted, enter "SBI" to access SBI Bank services or "HDFC" to access HDFC Bank services.
+Follow the instructions provided by the program to navigate through the banking services.
+
+Contributing:
+Contributions to this project are welcome. Please follow standard contribution guidelines and submit pull requests.
+
+
+
+Contact:
+For any questions or feedback, please contact  irahul312001@gmailcom.
